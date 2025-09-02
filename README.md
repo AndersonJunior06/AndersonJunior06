@@ -21,6 +21,7 @@ https://andersonjunior-portifolio.vercel.app/
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/c/original.svg"/>
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Lua" title="Lua" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
