@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Anderson Junior, tenho 19 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. 
+Me chamo Anderson Junior, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. 
 
 ---
 ### Portifólio
