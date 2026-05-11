@@ -26,16 +26,23 @@ https://andersonjunior-portifolio.vercel.app/
 <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
 <br/>
-<br/>
 
 ---
-
 ### 📊 Estatísticas
 
-<div align="center">
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-one-topaz-26.vercel.app/api?username=AndersonJunior06&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=7200&locale=pt-br" 
+  />
 
-<img height="180em" src="https://github-readme-stats-one-topaz-26.vercel.app/api?username=AndersonJunior06&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats-one-topaz-26.vercel.app/api/top-langs/?username=AndersonJunior06&theme=dark&layout=compact&langs_count=8&count_private=true&hide_border=true"/>
-
-</div>
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats-one-topaz-26.vercel.app/api/top-langs/?username=AndersonJunior06&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&cache_seconds=7200&locale=pt-br" 
+  />
+</p>
