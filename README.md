@@ -16,7 +16,7 @@ Atualmente **Desenvolvedor Front-End na Treeal · Cliqx**, instituição de paga
 
 ### Portfólio
 
-https://andersonjunior-portifolio.vercel.app/
+https://andersonjunior.com
 
 ---
 
