@@ -32,6 +32,7 @@ https://andersonjunior-portifolio.vercel.app/
   <img alt="Django" title="Django" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>&nbsp;
   <img alt="Java" title="Java" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>&nbsp;
   <img alt="Spring" title="Spring" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>&nbsp;
+  <img alt="Lua" title="Lua" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>&nbsp;
 </p>
 
 ---
