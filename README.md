@@ -5,7 +5,7 @@
 Desenvolvedor Full Stack com mais de 2 anos de experiência em desenvolvimento web, do front-end ao deploy em produção.
 
 - **Front-end:** TypeScript, React, Angular, Vue.js, Next.js, Tailwind CSS, Redux, SSR e SSG
-- **Back-end:** Python, Django, Java, Spring, APIs RESTful, WebSocket, autenticação JWT
+- **Back-end:** Python, Django, Java, Spring, APIs REST, WebSocket, autenticação JWT
 - **Banco de dados:** PostgreSQL, MySQL, Redis, arquitetura multi-tenant com Row-Level Security
 - **DevOps e Cloud:** Docker, CI/CD, Google Cloud (GCP), AWS, Cloudflare
 - **Mobile:** Flutter, Dart
